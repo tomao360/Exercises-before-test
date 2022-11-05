@@ -1,0 +1,5 @@
+﻿  Typedef.c
+C:\Users\97252\source\repos\Exercise before test\Exercise before test\Typedef.c(36,1): warning C4047: 'initializing': 'Character' differs in levels of indirection from 'char [2]'
+Files.obj : error LNK2005: readFile already defined in ArgvArgc2.obj
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\97252\source\repos\Exercise before test\x64\Debug\Exercise before test.exe : fatal error LNK1120: 1 unresolved externals
